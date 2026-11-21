@@ -1,0 +1,176 @@
+{
+  "admin": {
+    "password_hash": "$2b$12$DkD6TZjQnNNgtm0LR/pUJuT3gURjazTK59sbA2F4PE0E.xYxejhrG",
+    "created_at": 1794898810,
+    "role": "admin",
+    "display_name": "System Administrator",
+    "email": "admin@kcca.go.ug",
+    "phone": "+256 700 112233",
+    "is_active": true
+  },
+  "operator": {
+    "password_hash": "$2b$12$c2eWXjmUoUJho6IhBKtT2ub8mi0n6ejNM3phB9Dh5jaHwoTdht1Kq",
+    "created_at": 1794898810,
+    "role": "operator",
+    "display_name": "Anthony Lead Operator",
+    "email": "anthony.lead@kcca.go.ug",
+    "phone": "+256 700 889900",
+    "updated_at": 1794902571,
+    "is_active": true
+  },
+  "motorist": {
+    "password_hash": "$2b$12$bSCYKBG1skrgFEIPlQAhGuZS3HGW841p/9ji/cvC2jOxtcMwrr.Sq",
+    "created_at": 1794898810,
+    "role": "motorist",
+    "display_name": "Verified Citizen Motorist",
+    "email": "motorist@kcca.go.ug",
+    "phone": "+256 700 556677",
+    "updated_at": 1794990402,
+    "is_active": true,
+    "active": true,
+    "updated_by": "admin"
+  },
+  "grace_9912": {
+    "password_hash": "$2b$12$AQ2m5HSY1Au.5DajySZaHOak6MUyOuLNjuUE4sZS1vMuSaPcZ9GHG",
+    "role": "motorist",
+    "display_name": "Grace Nansubuga",
+    "email": "motorist_citiz_9912@gmail.com",
+    "phone": "+256 755 123456",
+    "created_at": 1794960820,
+    "updated_at": 1794989333,
+    "is_active": true,
+    "active": true,
+    "updated_by": "admin"
+  },
+  "motorist_kato_4654": {
+    "password_hash": "$2b$12$fUAinKJMMTfGW/FPH22EcOc6c8EZ1lDxgKo8hliF0iiCJQDJNPTQq",
+    "role": "motorist",
+    "display_name": "Grace Kato",
+    "email": "kato_4654@gmail.com",
+    "phone": "+256 700 887766",
+    "created_at": 1794960834,
+    "updated_at": 1794960834
+  },
+  "motorist_map_1794960849712": {
+    "password_hash": "$2b$12$ot9DSNiVh7FPPydqOAjTbOSF2ps3hbGEtR7tFEyYD1eKoBCk1ULZe",
+    "role": "motorist",
+    "display_name": "Civic Map Explorer",
+    "email": "motorist_map_1794960849712@gmail.com",
+    "phone": "",
+    "created_at": 1794960849,
+    "updated_at": 1794960849
+  },
+  "julius": {
+    "password_hash": "$2b$12$m7rYtdgOTdJFpZPzQhqT6.hF9XPqra43bjFtoWEVc5NqqS7vXvS8i",
+    "role": "motorist",
+    "display_name": "Julius Mukubya",
+    "email": "mukubyajulius@gmail.com",
+    "phone": "+256786396304",
+    "created_at": 1795236220,
+    "updated_at": 1795239810,
+    "roles": [
+      "motorist",
+      "operator"
+    ],
+    "is_active": true,
+    "active": true,
+    "updated_by": "admin"
+  },
+  "julius mukubya": {
+    "password_hash": "$2b$12$rOfBZ5eP1h5ygP8aV6OaruSC.n5J5RIGZn/0vu/APlqvcvwdDMV3u",
+    "role": "warden",
+    "roles": [
+      "warden"
+    ],
+    "display_name": "Julius Mukubya",
+    "email": "julius082115@gmail.com",
+    "phone": "+256786396304",
+    "is_active": true,
+    "assigned_area_id": "1700000000001",
+    "assigned_area_name": "City Square Municipal Arcade",
+    "created_at": 1795242219,
+    "created_by": "julius"
+  },
+  "admin_pw": {
+    "password_hash": "$2b$12$DkD6TZjQnNNgtm0LR/pUJuT3gURjazTK59sbA2F4PE0E.xYxejhrG",
+    "created_at": 1794898810,
+    "role": "admin",
+    "roles": [
+      "admin"
+    ],
+    "display_name": "ParkWatch Admin",
+    "email": "admin@parkwatch.ug",
+    "phone": "+256 700 112233",
+    "is_active": true,
+    "active": true
+  },
+  "owner_pw": {
+    "password_hash": "$2b$12$MzYaAwPPCRvkCx.rzls9BuIX8Dn4KpV4ls7cTHAdfhEQviQrHF1OC",
+    "created_at": 1794898810,
+    "role": "operator",
+    "roles": [
+      "operator"
+    ],
+    "display_name": "ParkWatch Owner",
+    "email": "owner@parkwatch.ug",
+    "phone": "+256 700 889900",
+    "is_active": true,
+    "active": true
+  },
+  "attendant_pw": {
+    "password_hash": "$2b$12$ydPEID3FjF1cJ0s/tSJvV.2sWHg5kbJHQDxH061uZX7bQWZEQHmeq",
+    "created_at": 1794898810,
+    "role": "warden",
+    "roles": [
+      "warden"
+    ],
+    "display_name": "ParkWatch Attendant",
+    "email": "attendant@parkwatch.ug",
+    "phone": "+256 700 445566",
+    "assigned_area_id": "1700000000001",
+    "assigned_area_name": "City Square Municipal Arcade",
+    "is_active": true,
+    "active": true
+  },
+  "motorist_pw": {
+    "password_hash": "$2b$12$bSCYKBG1skrgFEIPlQAhGuZS3HGW841p/9ji/cvC2jOxtcMwrr.Sq",
+    "created_at": 1794898810,
+    "role": "motorist",
+    "roles": [
+      "motorist"
+    ],
+    "display_name": "ParkWatch Motorist",
+    "email": "motorist@parkwatch.ug",
+    "phone": "+256 700 556677",
+    "is_active": true,
+    "active": true
+  },
+  "owner_kcca": {
+    "password_hash": "$2b$12$MzYaAwPPCRvkCx.rzls9BuIX8Dn4KpV4ls7cTHAdfhEQviQrHF1OC",
+    "created_at": 1794898810,
+    "role": "operator",
+    "roles": [
+      "operator"
+    ],
+    "display_name": "KCCA Parking Owner",
+    "email": "owner@kcca.go.ug",
+    "phone": "+256 700 889900",
+    "is_active": true,
+    "active": true
+  },
+  "attendant_kcca": {
+    "password_hash": "$2b$12$ydPEID3FjF1cJ0s/tSJvV.2sWHg5kbJHQDxH061uZX7bQWZEQHmeq",
+    "created_at": 1794898810,
+    "role": "warden",
+    "roles": [
+      "warden"
+    ],
+    "display_name": "KCCA Parking Attendant",
+    "email": "attendant@kcca.go.ug",
+    "phone": "+256 700 445566",
+    "assigned_area_id": "1700000000001",
+    "assigned_area_name": "City Square Municipal Arcade",
+    "is_active": true,
+    "active": true
+  }
+}

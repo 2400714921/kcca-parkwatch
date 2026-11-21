@@ -1,0 +1,27 @@
+{
+  "name": "parking-system-frontend",
+  "version": "1.0.0",
+  "description": "Parking spot detection frontend - React + Vite",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "material-symbols": "^0.48.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^7.18.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.5",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@vitejs/plugin-react": "^4.2.0",
+    "playwright": "^1.65.0",
+    "tailwindcss": "^4.3.5",
+    "vite": "^5.0.0"
+  }
+}

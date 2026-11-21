@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1700000000001,
+    "name": "City Square Municipal Arcade",
+    "location": "Central Division, Kampala Rd",
+    "lat": 0.3136,
+    "lng": 32.5811,
+    "totalCapacity": 372,
+    "hourlyRate": "UGX 2,750 / hr",
+    "imageUrl": "/hero-parking.jpg",
+    "createdAt": "2026-09-01T08:00:00.000Z",
+    "spots": [
+      {
+        "id": 1794940982232,
+        "x1": 157.46619776763285,
+        "y1": 102.893091530426,
+        "x2": 208.46377318101395,
+        "y2": 140.4714380024077
+      },
+      {
+        "id": 1795078824525,
+        "x1": 242.895723160651,
+        "y1": 125.65743233992059,
+        "x2": 307.0370180212558,
+        "y2": 179.2852904933595
+      },
+      {
+        "id": 1795078824824,
+        "x1": 332.2729373106741,
+        "y1": 125.65743233992059,
+        "x2": 396.4142321712789,
+        "y2": 179.2852904933595
+      },
+      {
+        "id": 1795078874772,
+        "x1": 242.46215678993468,
+        "y1": 125.70851617412917,
+        "x2": 306.88014678578446,
+        "y2": 179.39186827696014
+      },
+      {
+        "id": 1795078875088,
+        "x1": 331.9315873397261,
+        "y1": 125.70851617412917,
+        "x2": 396.3495773355759,
+        "y2": 179.39186827696014
+      }
+    ],
+    "spotDimensions": {
+      "width": 640,
+      "height": 360
+    },
+    "analytics": [
+      {
+        "timestamp": 0,
+        "time": "00:00",
+        "recordedAt": 1794914000000,
+        "occupied": 120,
+        "available": 252,
+        "total": 372,
+        "occupancyRate": "32.3"
+      }
+    ],
+    "owner_username": "julius",
+    "videoUrl": ""
+  },
+  {
+    "id": 1700000000002,
+    "name": "Lugogo Mall Multi-Deck",
+    "location": "Nakawa Division, Jinja Road",
+    "lat": 0.3276,
+    "lng": 32.6074,
+    "totalCapacity": 200,
+    "hourlyRate": "UGX 3,000 / hr",
+    "imageUrl": "/hero-parking.jpg",
+    "createdAt": "2026-09-02T08:00:00.000Z",
+    "spots": [],
+    "spotDimensions": null,
+    "analytics": [
+      {
+        "timestamp": 0,
+        "time": "00:00",
+        "recordedAt": 1794914000000,
+        "occupied": 90,
+        "available": 110,
+        "total": 200,
+        "occupancyRate": "45.0"
+      }
+    ]
+  },
+  {
+    "id": 1700000000003,
+    "name": "Kisenyi Transit Bay",
+    "location": "Central Division, Nyerere Rd",
+    "lat": 0.309,
+    "lng": 32.571,
+    "totalCapacity": 120,
+    "hourlyRate": "UGX 1,500 / hr",
+    "imageUrl": "/hero-parking.jpg",
+    "createdAt": "2026-09-03T08:00:00.000Z",
+    "spots": [],
+    "spotDimensions": null,
+    "analytics": [
+      {
+        "timestamp": 0,
+        "time": "00:00",
+        "recordedAt": 1794914000000,
+        "occupied": 82,
+        "available": 38,
+        "total": 120,
+        "occupancyRate": "68.3"
+      }
+    ]
+  },
+  {
+    "id": 1700000000004,
+    "name": "Bukoto Hardware Yard",
+    "location": "Kawempe Division, Bukoto Street",
+    "lat": 0.354,
+    "lng": 32.593,
+    "totalCapacity": 60,
+    "hourlyRate": "UGX 1,500 / hr",
+    "imageUrl": "/hero-parking.jpg",
+    "createdAt": "2026-09-04T08:00:00.000Z",
+    "spots": [],
+    "spotDimensions": null,
+    "analytics": [
+      {
+        "timestamp": 0,
+        "time": "00:00",
+        "recordedAt": 1794914000000,
+        "occupied": 48,
+        "available": 12,
+        "total": 60,
+        "occupancyRate": "80.0"
+      }
+    ]
+  },
+  {
+    "id": 1794938716146,
+    "name": "Kololo Airstrip Lot",
+    "location": "Central Division, Kololo",
+    "lat": 0.3265,
+    "lng": 32.594,
+    "totalCapacity": 140,
+    "hourlyRate": "UGX 3,500 / hr",
+    "imageUrl": "",
+    "createdAt": "2026-11-17T18:05:16.146Z",
+    "spots": [],
+    "spotDimensions": null,
+    "analytics": []
+  },
+  {
+    "id": 1794938783201,
+    "name": "Kololo Airstrip Lot",
+    "location": "Central Division, Kololo",
+    "lat": 0.3265,
+    "lng": 32.594,
+    "totalCapacity": 140,
+    "hourlyRate": "UGX 3,500 / hr",
+    "imageUrl": "",
+    "createdAt": "2026-11-17T18:06:23.201Z",
+    "spots": [],
+    "spotDimensions": null,
+    "analytics": []
+  }
+]

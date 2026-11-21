@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Production builds
+dist/
+build/
+
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+
+# Secrets & Local Environment
+.env
+.env.local
+.env.*.local
+backend_new/.jwt_secret
+
+# Logs & Temporary Test Files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.system_generated/
+scratch/
+backend_new/uploads/
+
+# OS artifacts
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store
